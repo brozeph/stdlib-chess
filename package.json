@@ -1,0 +1,17 @@
+{
+  "name": "chess",
+  "version": "0.2.0",
+  "description": "Service",
+  "author": "brozeph <joshua.thomas@gmail.com>",
+  "main": "f/game/index.js",
+  "dependencies": {
+    "chess": "^0.2.8"
+  },
+  "private": false,
+  "stdlib": {
+    "name": "brozeph/chess",
+    "defaultFunction": "game",
+    "timeout": 5000,
+    "publish": true
+  }
+}

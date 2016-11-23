@@ -1,0 +1,11 @@
+{
+  "name": "game",
+  "description": "Function",
+  "kwargs": {
+    "stateCode": "State code for the game - this value is updated after every move",
+    "notation": "Algebraic notation for the next move to apply to the game"
+  },
+  "http": {
+    "headers": {}
+  }
+}
